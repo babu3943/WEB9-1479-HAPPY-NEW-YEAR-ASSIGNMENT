@@ -74,3 +74,143 @@ height: 500px;
 flex-shrink: 0; 
 position:relative;
 }
+.victory{
+    width: 1320px;
+    height: 600px;
+flex-shrink: 0; 
+position:relative;
+}
+.title{
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400; 
+    top: 50px;
+}
+.content{
+    color: #F00;
+text-align: center;
+font-family: Inter;
+font-size: 32px;
+font-style: normal;
+font-weight: 600;
+line-height: 56px; 
+text-transform: capitalize;
+}
+.content span{
+    color: #070211;
+font-family: Inter;
+font-size: 32px;
+font-style: normal;
+font-weight: 600;
+line-height: 56px;
+text-transform: capitalize;
+}
+
+.btn{
+    color: #FFF;
+
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+    display: inline-flex;
+padding: 16px 32px;
+justify-content: center;
+align-items: center;
+gap: 10px;
+border-radius: 8px;
+background: #F00;
+
+}
+.portfolio .header{
+    color: #F00;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.portfolio .middle{
+    color: #070211;
+
+font-family: Merriweather;
+font-size: 48px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+text-transform: capitalize;
+}
+.portfolio .end{
+    color: rgba(7, 2, 17, 0.60);
+
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 32px;
+}
+.portfolio .rec1{
+    width: 424px;
+height: 450px;
+flex-shrink: 0;
+border-radius: 16px;
+background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+}
+.min .img {
+    width: 150px;
+    height: 150px;
+    flex-shrink: 0;
+    color: #070211;
+}
+.min .pg{
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: capitalize;
+    color: rgba(7, 2, 17, 0.60);
+}
+.min .don{
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+}
+.min .mail{
+    width: 150px;
+height: 150px;
+flex-shrink: 0;
+}
+.min .btn1{
+    color: #FFF;
+
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+text-transform: capitalize;
+width: 210px;
+height: 72px;
+flex-shrink: 0;
+border-radius: 0px 50px 50px 0px;
+background: #F00;
+}
+.final{
+    width: 64px;
+height: 64px;
+flex-shrink: 0;
+flex-wrap: wrap-reverse;
+
+}
+
